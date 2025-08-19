@@ -1,3 +1,4 @@
 # Problem brahistokrone u nehomogenom gravitacijskom polju 
-## Završni rad:
+## Završni rad/Bachelor thesis:
 [Link](https://zir.nsk.hr/islandora/object/pmfst%3A1601)
+The problem of brachistochrone is one of the most interesting problems of classical mechanics dating back  to the time of Galileo. The problem was as follows: Given two points A and B in a vertical plane, what is  the curve traced out by a point acted on only by gravity, which starts at A and reaches B in the shortest time.  Johann and his brother Jakob Bernoulli derived the first solution. They used the laws of optics more  precisely Snell's law as indirect method. Later, a new branch of the mathematics of variational calculus was  developed and the Euler-Lagrange equation solved the problem of brachistochrone analytically. In this  paper, we will present an analytical solution of the brachistochrone problem from the Euler-Lagrange  equation and a numerical solution of the corresponding differential equation. Finally, we will generalize the  brachistochrone problem for nonuniform gravitational fields. 
